@@ -3,17 +3,17 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://raiuno1-live.akamaized.net/hls/live/598308/raiuno1/raiuno1/playlist_ma.m3u8?hdnea=st=1703758375~exp=1703758525~acl=/*~hmac=b60a1c9f1185c6945a6f4e1b28113265f2129dec5937ed083248d36a0c17ca5d
-#EXTINF:0 tvg-id="Rai2.it" tvg-chno="2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="Rai",Rai 2
+https://tv-playlist-eta.vercel.app/channels?url=http%3A%2F%2Fmediapolis.rai.it%2Frelinker%2FrelinkerServlet.htm%3Fcont%3D2606803%26output%3D16
+#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="Rai",Rai 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://192.168.1.25:3000/channels?name=rai2
+https://tv-playlist-eta.vercel.app/channels?url=http%3A%2F%2Fmediapolis.rai.it%2Frelinker%2FrelinkerServlet.htm%3Fcont%3D308718%26output%3D16
 #EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Rai",Rai 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=16
+https://tv-playlist-eta.vercel.app/channels?url=http%3A%2F%2Fmediapolis.rai.it%2Frelinker%2FrelinkerServlet.htm%3Fcont%3D308709%26output%3D16
 #EXTINF:-1 tvg-id="Rete4.it" tvg-chno="4" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rete4.png" group-title="Mediaset",Rete 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
