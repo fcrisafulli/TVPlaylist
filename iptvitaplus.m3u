@@ -19,7 +19,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=16
 https://live03p-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Canale5.it" tvg-chno="5" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/canale5.png" group-title="Mediaset",Canale 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
+https://live03p-col.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest_hr.mpd
 #EXTINF:-1 tvg-id="Italia1.it" tvg-chno="6" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia1.png" group-title="Mediaset",Italia 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live03p-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
