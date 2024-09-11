@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai" user-agent="raiplayappletv",Rai 1
 #EXTVLCOPT:http-user-agent=rainet/4.0.5
 #KODIPROP:inputstream.adaptive.manifest_type=hls
