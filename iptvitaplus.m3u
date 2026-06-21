@@ -84,7 +84,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Boing.it" tvg-chno="40" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/boing.png" group-title="TV",Boing
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="K2.it" tvg-chno="41" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/k2.png" group-title="Discovery",K2
+#EXTINF:-1 tvg-id="K2.it" tvg-chno="41" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/k2.png" group-title="TV",K2
 https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-chno="42" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raigulp.png" user-agent="raiplayappletv" group-title="TV",Rai Gulp
 #EXTVLCOPT:http-user-agent=rainet/4.0.5
@@ -115,7 +115,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnt
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="DMAX.it" tvg-chno="52" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/dmax.png" group-title="TV",DMAX
 https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="RaiStoria.it" tvg-chno="54" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raistoria.png" user-agent="raiplayappletv" group-title="Rai",Rai Storia
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-chno="54" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raistoria.png" user-agent="raiplayappletv" group-title="TV",Rai Storia
 #EXTVLCOPT:http-user-agent=rainet/4.0.5
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
