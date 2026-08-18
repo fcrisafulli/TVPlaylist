@@ -1,31 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="TV" user-agent="raiplayappletv",Rai 1
-#EXTVLCOPT:http-user-agent=rainet/4.0.5
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://plain-dream-6a82.federico-cri3339.workers.dev/rai/2606803
-#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" user-agent="raiplayappletv" group-title="TV",Rai 2
-#EXTVLCOPT:http-user-agent=rainet/4.0.5
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://plain-dream-6a82.federico-cri3339.workers.dev/rai/308718
-#EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" user-agent="raiplayappletv" group-title="TV",Rai 3
-#EXTVLCOPT:http-user-agent=rainet/4.0.5
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://plain-dream-6a82.federico-cri3339.workers.dev/rai/308709
+#EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="TV",Rai 1
+http://192.168.1.223:5004/auto/v1
+#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="TV",Rai 2
+http://192.168.1.223:5004/auto/v2
+#EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="TV",Rai 3
+http://192.168.1.223:5004/auto/v3
 #EXTINF:-1 tvg-id="Rete4.it" tvg-chno="4" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rete4.png" group-title="TV",Rete 4
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+http://192.168.1.223:5004/auto/v4
 #EXTINF:-1 tvg-id="Canale5.it" tvg-chno="5" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/canale5.png" group-title="TV",Canale 5
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+http://192.168.1.223:5004/auto/v5
 #EXTINF:-1 tvg-id="Italia1.it" tvg-chno="6" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia1.png" group-title="TV",Italia 1
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+http://192.168.1.223:5004/auto/v6
 #EXTINF:-1 tvg-id="La7.it" tvg-chno="7" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png" group-title="TV",LA7
-https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
+http://192.168.1.223:5004/auto/v7
 #EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="TV",TV8
-https://uvotv.zappr.stream/269.m3u8
+http://192.168.1.223:5004/auto/v8
 #EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png" group-title="TV",NOVE
-https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+http://192.168.1.223:5004/auto/v9
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="20" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png" group-title="TV",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
